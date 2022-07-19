@@ -8,4 +8,4 @@
 
 ##
 
-[CV - Caravajal Iván.pdf](https://github.com/IvanGCGH/IvanGCGH/files/9141924/CV.-.Caravajal.Ivan.pdf)
+![Curriculum](https://user-images.githubusercontent.com/106553827/179775908-78851606-355d-4ea2-b8f5-fbaf365227d9.jpg)
