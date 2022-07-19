@@ -8,4 +8,4 @@
 
 ##
 
-![Curriculum](https://user-images.githubusercontent.com/106553827/179775908-78851606-355d-4ea2-b8f5-fbaf365227d9.jpg)
+![CV - Ivan Caravajal](https://user-images.githubusercontent.com/106553827/179806976-b105d3f6-bfb9-4e6c-848c-4797d9e900fa.jpg)
