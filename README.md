@@ -1,4 +1,4 @@
-## 😄 Here I am, Iván Caravajal 👋
+## 😄 Here I am, Iván 👋
 
 ## Connect with me:
 <div style="display: inline_block">
