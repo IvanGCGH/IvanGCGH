@@ -8,7 +8,6 @@
 
 ##
 
-![Caravajal Iván - Desarrollador](https://user-images.githubusercontent.com/106553827/180573668-cc0ca4ab-6c3b-4614-bcbc-19a6ed6746c1.jpg)
-
+![Iván Gabriel Caravajal - Desarrollador](https://user-images.githubusercontent.com/106553827/181056516-5492d8d5-af5f-45b7-8b1e-564558aa75ec.jpg)
 
 
