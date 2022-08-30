@@ -57,6 +57,10 @@ const ivan = [
             {
                 type: "Languages",
                 items: ["English", "Spanish"]
+            },
+	    {
+                type: "IDEs",
+                items: ["Vim", "Visual Studio Code", "Sublime Text"]
             }
         ] 
     }
