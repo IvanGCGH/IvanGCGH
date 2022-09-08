@@ -48,7 +48,7 @@ const ivan = [
             },
             {
                 type: "Backend",
-                items: ["Python", "C", "SQL Server", "MySQL", "MongoDB", "NodeJS", "MongoDB"]
+                items: ["Python", "C", "SQL Server", "MySQL", "MongoDB", "NodeJS"]
             },
             {
                 type: "Others",
